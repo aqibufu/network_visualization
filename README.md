@@ -1,4 +1,4 @@
-# network_visualization
+# Network_visualization
 ## flourish
 Flourish is a free website to enable everyone to tell strories and visualizaiton with their own data. We have parpare several graph data for users to choose different diffusion networks, including debunking post themes, rumor types and emotions.
 Here are three visualizaiton examples of diffusion network. In order to illustrate the diffusion network more clearly, only one post (event) diffusion network is selected for each theme, each rumor type and each emotion. Within the visualization examples, we can view the corresponding type of diffusion network by clicking on different legends.
